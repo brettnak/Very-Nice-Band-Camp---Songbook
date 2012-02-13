@@ -56,6 +56,8 @@
  - Read out of the auditions book
  - Practice Bottesini
 
+====
+
 # 1 Hour Practice : New
 
 ## Technique
@@ -83,6 +85,8 @@
   - Should be seomewhat related
  - Learn the melody
  - Noodle for a bit around the melody to practice a solo
+
+====
 
 # 1 Hour Practice : Review
 
