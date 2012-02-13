@@ -28,7 +28,7 @@
  - Short Tones
  - Pizz - Probably only 2 octaves
 
-## Careless Lovers Songs - Review
+## Careless Lovers Songs : Review
 **0:45 - 1:00**
 
 - Review the last two songs
@@ -36,7 +36,7 @@
  - Play the melody
  - Play the prepared line
 
-## Careless Lovers Songs - New
+## Careless Lovers Songs : New
 **1:00 - 1:30**
 
 - Deep Dive on a song
