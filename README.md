@@ -1,7 +1,7 @@
 # 2 Hour Practice Schedule
 
 ## Warmup
-*0:00 - 0:15*
+**0:00 - 0:15**
 
 - Scales
 - Bowed Long Tones
@@ -11,7 +11,7 @@
 
 
 ## Technique
-*0:15 - 0:30*
+**0:15 - 0:30**
 
 - Play 5 tempos for 1 min each
 - Practice Slapping
@@ -20,7 +20,7 @@
  - 1/8th notes
 
 ## Theory
-*0:30 - 0:45*
+**0:30 - 0:45**
 
 - Weekly Keys ( 2 maj, 2 min )
  - 3 Octaves
@@ -29,7 +29,7 @@
  - Pizz - Probably only 2 octaves
 
 ## Careless Lovers Songs - Review
-*0:45 - 1:00
+**0:45 - 1:00**
 
 - Review the last two songs
  - Arpeggiate the song
@@ -37,7 +37,7 @@
  - Play the prepared line
 
 ## Careless Lovers Songs - New
-*1:00 - 1:30*
+**1:00 - 1:30**
 
 - Deep Dive on a song
  - Learn all arpeggios
@@ -49,7 +49,7 @@
  - Noodle for a bit around the melody to practice a solo
 
 ## Personal Stuff
-*1:30 - 2:00*
+**1:30 - 2:00**
 
 - Choose two:
  - Practice bowed soloing over a song
@@ -62,7 +62,7 @@
 # 1 Hour Practice - New
 
 ## Technique
-*0:00 - 0:30
+**0:00 - 0:30**
 
 - Slapping
  - 1/16th Notes
@@ -76,7 +76,7 @@
  - Play a solo
 
 ## New Song
-*0:30 - 1:00*
+**0:30 - 1:00**
 
 - Deep Dive on a song
  - Learn all arpeggios
@@ -91,7 +91,7 @@
  # 1 Hour Practice - Review
 
 ## Technique
-_0:00 - 0:30_
+**0:00 - 0:30**
 
 - Slapping
  - 1/16th Notes
@@ -105,7 +105,7 @@ _0:00 - 0:30_
  - Play a solo
 
 ## Review
-*0:30 - 1:00
+**0:30 - 1:00**
 
 - Review the last two songs
  - Arpeggiate the song
