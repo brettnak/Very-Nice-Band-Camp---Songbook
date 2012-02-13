@@ -91,7 +91,7 @@
  # 1 Hour Practice - Review
 
 ## Technique
-*0:00 - 0:30
+_0:00 - 0:30_
 
 - Slapping
  - 1/16th Notes
