@@ -9,7 +9,6 @@
 - Quiet Pizz
 - Loued Pizz
 
-
 ## Technique
 **0:15 - 0:30**
 
@@ -57,9 +56,7 @@
  - Read out of the auditions book
  - Practice Bottesini
 
-
-
-# 1 Hour Practice - New
+# 1 Hour Practice : New
 
 ## Technique
 **0:00 - 0:30**
@@ -87,8 +84,7 @@
  - Learn the melody
  - Noodle for a bit around the melody to practice a solo
 
-
- # 1 Hour Practice - Review
+# 1 Hour Practice : Review
 
 ## Technique
 **0:00 - 0:30**
